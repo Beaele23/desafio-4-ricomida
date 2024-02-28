@@ -1,0 +1,97 @@
+*{
+    font-family: "Cabin", sans-serif;
+    color: #373A3C
+}
+
+nav {
+    background-color: #373A3C;
+    font-size: 16px;
+}
+
+.navbar-brand{
+    font-family: "Lobster", sans-serif;
+    font-size: 37px;
+}
+
+header h1 {
+    font-size: 25px;
+    font-weight: 700;
+}
+header p {
+    font-weight: 700;
+}
+
+header button{
+    font-size: 13px;
+}
+
+.carousel-inner{
+
+    justify-content: space-between;
+}
+ul {
+    list-style: none;
+}
+
+#contacto h2{
+font-size: 30px;
+color: white;
+text-align: center;
+}
+
+#contacto span{
+    font-family: "Lobster", sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+#contacto p{
+    font-size: 20px;
+    color: white;
+}
+
+
+
+footer h2{
+    font-family: "Lobster", sans-serif;
+    color: white;
+    background-color: #373A3C;
+    font-size: 37px;
+    text-align: center;
+}
+
+.recetas{
+    width: auto;
+}
+
+hr {
+    border-top: 2px #000000 solid;
+    opacity: 0.75;
+}
+
+
+#carousel-principal .carousel-indicators [data-bs-target] {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+   
+  
+}
+
+#carousel-principal .carousel-indicators {
+    bottom: -50px;
+    
+}
+
+#btn-favoritos{
+    border-color:#DDDDDD ;
+}
+
+#btn-enviar-correo{
+    border-color:#DDDDDD ;
+}
+
+#btn-empezar{
+border-color:#DDDDDD ;
+width: 233px;
+}
